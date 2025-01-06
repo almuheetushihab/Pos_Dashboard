@@ -53,7 +53,7 @@ fun TextFieldWithDatePicker(label: String, onDateSelected: (String) -> Unit) {
                     e.printStackTrace()
                 }
             }
-            .padding(8.dp)
+            .padding(12.dp)
     )
 }
 
